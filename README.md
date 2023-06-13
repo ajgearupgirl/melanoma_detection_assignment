@@ -73,4 +73,4 @@ Inference from Final Model:
 
 ## Contact:
 
-Created by ShreerakshaS - feel free to contact me!
+Created by https://github.com/ajgearupgirl - feel free to contact me!
